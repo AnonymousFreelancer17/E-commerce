@@ -70,5 +70,12 @@
         "^build"
       ]
     }
+  },
+  "tasksRunnerOptions": {
+    "default": {
+      "options": {
+        "useDaemonProcess": true
+      }
+    }
   }
 }
